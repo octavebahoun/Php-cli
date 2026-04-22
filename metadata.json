@@ -1,0 +1,6 @@
+{
+  "name": "PHP MVC CLI Generator",
+  "description": "Un générateur de CLI Node.js puissant pour échafauder des projets PHP MVC avec controllers, modèles, routes et CRUD automatique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
